@@ -20,5 +20,5 @@ I did not upload them. We learned:
 - php (using MyPHPAdmin)
 - SQL 
 - NoSQL
-- creating database schemas
+- creating database schemas (ORM and logical models)
 - Relational Algebra
