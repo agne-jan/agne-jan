@@ -14,3 +14,11 @@ were the parts that correspond to various topics, such as:
 - Recursion
 - Binary search trees
 - Operator overloading
+
+Database projects were done as part of the group so to respect privacy, 
+I did not upload them. We learned:
+- php (using MyPHPAdmin)
+- SQL 
+- NoSQL
+- creating database schemas
+- Relational Algebra
